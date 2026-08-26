@@ -1,6 +1,6 @@
 # Carlos Abarza Suazo | Backend Developer & DevOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-abarza-suazo-389aa2309/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-abarza-suazo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abarza.suazo.c@gmail.com)
 [![Paper MDPI](https://img.shields.io/badge/Investigación-Paper_MDPI-008080?style=for-the-badge)](https://www.mdpi.com/3568150)
 
